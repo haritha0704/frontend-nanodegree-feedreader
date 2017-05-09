@@ -1,5 +1,6 @@
+##Feed Reader Jasmine Testing
 
-Synopsis
+###Synopsis
   
   The main goal of this project is to write a test script based on Jasmine for a feedreader.
 This goal was achieved by writing the following tests.
@@ -8,11 +9,11 @@ Tests
 
 1. RSS Feeds Test Suite
 
-      a)Test to make sure allFeeds variable has been defined.
+      -Test to make sure allFeeds variable has been defined.
   
-      b)Test to ensure a URL has been defined and not empty for each allFeeds object.
+      -Test to ensure a URL has been defined and not empty for each allFeeds object.
   
-      c)Test to ensure it has a name defines and not empty for each allFeeds object.
+      -Test to ensure it has a name defines and not empty for each allFeeds object.
 
  2. The menu Test Suite
       
