@@ -10,7 +10,7 @@ Download or clone this repository .To start the app, open index.html in your bro
 
 ### Tests
 
-1.RSS Feeds Test Suite.
+1.  RSS Feeds Test Suite.
      -Test to make sure allFeeds variable has been defined.
   
      -Test to ensure a URL has been defined and not empty for each allFeeds object.
@@ -18,17 +18,17 @@ Download or clone this repository .To start the app, open index.html in your bro
      -Test to ensure it has a name defines and not empty for each allFeeds object.
 
 
-2.The menu Test Suite
+2.  The menu Test Suite
       
       -Test to ensure the menu element is hidden by default.
       
       -Test to ensure the menu changes visibility when menu icon is clicked.
 
-3.Initial Entries test suite
+3.  Initial Entries test suite
    
     -Test to check that there is at least 1 .entry element in the feed container after loadFeed function is called.
 
-4.New Feed Selection Test Suite
+4.  New Feed Selection Test Suite
   
     -Test to ensure when a new feed is loaded by loadFeed function content actually changes.
 
