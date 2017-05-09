@@ -5,6 +5,13 @@
   The main goal of this project is to write a test script based on Jasmine for a feedreader.
 This goal was achieved by writing the following tests.
 
+Steps to run application
+
+Download or clone this repository .To start the app, open index.html in your browser.
+
+The tests were written in the feedreader.js file. The test results appears at the bottom of the index.html page.
+
+Tests that are green have passed and red have failed.
 Tests
 
 1. RSS Feeds Test Suite
